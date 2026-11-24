@@ -34,11 +34,12 @@ I enjoy learning by doing, solving programming problems, and working on small pr
 
 To become a skilled software developer who builds practical, reliable applications that solve real-world problems.
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-- GitHub: [@mugilvannan14](https://github.com/mugilvannan14)
-- LinkedIn: Add your LinkedIn profile URL here
+I'm always interested in connecting with fellow students, developers, and technology enthusiasts.
 
----
+- 💻 **GitHub:** [@mugilvannan14](https://github.com/mugilvannan14)
+- 📧 **Email:** mugilvannan114@gmail.com
+- 🔗 **LinkedIn:** www.linkedin.com/in/mugilvannan14
 
 *Learning continuously. Building consistently. Improving every day.*
